@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java" line="488" mnemonic="1" />
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java" line="183" mnemonic="2" />
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/AbstractPipeline.java" line="225" mnemonic="3" />
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ForEachOps.java" line="156" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e0af6eb-cc32-4976-8ccb-786d7e4a49c6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="stream-api-learn" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="stream-api-learn" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="stream-api-learn" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="stream-api-learn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="139" column="26" selection-start-line="139" selection-start-column="26" selection-end-line="139" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#flatMapDiffMapFunc#0;class#Demo#0" />
+                <element signature="e#4853#4854#0" expanded="true" />
+                <element signature="e#4954#4955#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReferencePipeline.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="417" column="12" selection-start-line="417" selection-start-column="12" selection-end-line="417" selection-end-column="12" />
+              <folding>
+                <element signature="e#2627#2628#0" expanded="true" />
+                <element signature="e#2667#2668#0" expanded="true" />
+                <element signature="e#15146#15147#0" expanded="true" />
+                <element signature="e#15205#15206#0" expanded="true" />
+                <element signature="e#17054#17055#0" expanded="true" />
+                <element signature="e#17109#17110#0" expanded="true" />
+                <element signature="e#20681#20682#0" expanded="true" />
+                <element signature="e#20746#20747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractPipeline.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/AbstractPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="232" column="41" selection-start-line="232" selection-start-column="41" selection-end-line="232" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForEachOps.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ForEachOps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="312" column="5" lean-forward="true" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="5" />
+              <folding>
+                <element signature="e#4705#4706#0" expanded="true" />
+                <element signature="e#4751#4752#0" expanded="true" />
+                <element signature="e#8030#8057#0" expanded="true" />
+                <element signature="e#10649#10676#0" expanded="true" />
+                <element signature="e#17894#17924#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stream.uml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stream.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.stream</OriginalElement>
+              <nodes>
+                <node x="145.875" y="489.0">java.util.stream.IntStream</node>
+                <node x="0.0" y="1032.0">java.util.stream.Nodes</node>
+                <node x="29.5" y="578.0">java.util.stream.LongPipeline</node>
+                <node x="174.0" y="884.0">java.util.stream.ForEachOps</node>
+                <node x="342.0" y="884.0">java.util.stream.DistinctOps</node>
+                <node x="358.41666666666663" y="390.0">java.util.stream.PipelineHelper</node>
+                <node x="507.0" y="884.0">java.util.stream.TerminalOp</node>
+                <node x="459.0" y="958.0">java.util.stream.SliceOps</node>
+                <node x="133.0" y="1032.0">java.util.stream.Node</node>
+                <node x="283.5" y="731.0">java.util.function.Supplier</node>
+                <node x="749.0" y="958.0">java.util.stream.Streams</node>
+                <node x="605.0" y="958.0">java.util.stream.FindOps</node>
+                <node x="833.0" y="884.0">java.util.stream.SortedOps</node>
+                <node x="280.0" y="79.0">java.util.concurrent.CountedCompleter</node>
+                <node x="121.75" y="810.0">java.util.stream.TerminalSink</node>
+                <node x="134.5" y="731.0">java.util.stream.SpinedBuffer</node>
+                <node x="542.875" y="578.0">java.util.stream.ReferencePipeline</node>
+                <node x="295.8888888888889" y="158.0">java.util.stream.ForEachOps.ForEachTask</node>
+                <node x="633.5" y="652.0">java.util.stream.StreamSupport</node>
+                <node x="311.0" y="958.0">java.util.stream.Collector</node>
+                <node x="0.0" y="958.0">java.util.stream.MatchOps</node>
+                <node x="145.8888888888889" y="158.0">java.util.stream.AbstractTask</node>
+                <node x="819.5" y="652.0">java.util.stream.StreamOpFlag</node>
+                <node x="0.0" y="316.0">java.util.stream.MatchOps.MatchTask</node>
+                <node x="297.0" y="0.0">java.util.concurrent.ForkJoinTask</node>
+                <node x="0.0" y="489.0">java.util.stream.LongStream</node>
+                <node x="195.34469696969697" y="578.0">java.util.stream.IntPipeline</node>
+                <node x="426.5" y="652.0">java.util.stream.StreamSpliterators</node>
+                <node x="156.0" y="958.0">java.util.stream.Collectors</node>
+                <node x="440.875" y="489.0">java.util.stream.DoubleStream</node>
+                <node x="135.0" y="316.0">java.util.stream.FindOps.FindTask</node>
+                <node x="9.25" y="652.0">java.util.function.Consumer</node>
+                <node x="442.8888888888889" y="158.0">java.util.stream.ForEachOps.ForEachOrderedTask</node>
+                <node x="140.25" y="652.0">java.util.stream.AbstractSpinedBuffer</node>
+                <node x="354.594696969697" y="578.0">java.util.stream.DoublePipeline</node>
+                <node x="614.375" y="489.0">java.util.stream.Stream</node>
+                <node x="892.0" y="958.0">java.util.stream.Tripwire</node>
+                <node x="244.0" y="237.0">java.util.stream.ReduceOps.ReduceTask</node>
+                <node x="670.0" y="884.0">java.util.stream.ReduceOps</node>
+                <node x="217.41666666666663" y="390.0">java.util.stream.BaseStream</node>
+                <node x="272.875" y="489.0">java.util.stream.AbstractPipeline</node>
+                <node x="20.0" y="237.0">java.util.stream.AbstractShortCircuitTask</node>
+                <node x="0.0" y="884.0">java.util.stream.StreamShape</node>
+                <node x="0.0" y="731.0">java.util.stream.Sink</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.stream.Stream" target="java.util.stream.BaseStream">
+                  <point x="-2.8421709430404007E-14" y="-14.5" />
+                  <point x="659.875" y="439.0" />
+                  <point x="328.3333333333333" y="439.0" />
+                  <point x="50.416666666666686" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.AbstractShortCircuitTask" target="java.util.stream.AbstractTask">
+                  <point x="0.0" y="-14.5" />
+                  <point x="122.0" y="212.0" />
+                  <point x="178.3888888888889" y="212.0" />
+                  <point x="-32.5" y="14.5" />
+                </edge>
+                <edge source="java.util.concurrent.CountedCompleter" target="java.util.concurrent.ForkJoinTask">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.SpinedBuffer" target="java.util.stream.AbstractSpinedBuffer">
+                  <point x="32.25" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.Stream">
+                  <point x="39.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.DoublePipeline" target="java.util.stream.DoubleStream">
+                  <point x="34.5" y="-14.5" />
+                  <point x="458.094696969697" y="558.0" />
+                  <point x="507.875" y="558.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.ReduceOps.ReduceTask" target="java.util.stream.AbstractTask">
+                  <point x="0.0" y="-14.5" />
+                  <point x="305.0" y="212.0" />
+                  <point x="243.3888888888889" y="212.0" />
+                  <point x="32.5" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.LongPipeline" target="java.util.stream.AbstractPipeline">
+                  <point x="31.5" y="-14.5" />
+                  <point x="124.0" y="548.0" />
+                  <point x="291.375" y="548.0" />
+                  <point x="-55.5" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.ForEachOps.ForEachOrderedTask" target="java.util.concurrent.CountedCompleter">
+                  <point x="0.0" y="-14.5" />
+                  <point x="531.3888888888889" y="133.0" />
+                  <point x="416.66666666666663" y="133.0" />
+                  <point x="54.66666666666663" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.DoubleStream" target="java.util.stream.BaseStream">
+                  <point x="0.0" y="-14.5" />
+                  <point x="507.875" y="449.0" />
+                  <point x="308.16666666666663" y="449.0" />
+                  <point x="30.25" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.DoublePipeline" target="java.util.stream.AbstractPipeline">
+                  <point x="-34.5" y="-14.5" />
+                  <point x="389.094696969697" y="558.0" />
+                  <point x="365.375" y="558.0" />
+                  <point x="18.5" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.SpinedBuffer" target="java.util.function.Consumer">
+                  <point x="-32.25" y="-14.5" />
+                  <point x="166.75" y="706.0" />
+                  <point x="92.5" y="706.0" />
+                  <point x="27.75" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.PipelineHelper">
+                  <point x="49.333333333333314" y="-14.5" />
+                  <point x="396.2083333333333" y="469.0" />
+                  <point x="425.91666666666663" y="469.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.MatchOps.MatchTask" target="java.util.stream.AbstractShortCircuitTask">
+                  <point x="0.0" y="-14.5" />
+                  <point x="57.5" y="291.0" />
+                  <point x="71.0" y="291.0" />
+                  <point x="-51.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.TerminalSink" target="java.util.stream.Sink">
+                  <point x="-31.5" y="-14.5" />
+                  <point x="153.25" y="785.0" />
+                  <point x="37.0" y="785.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.Sink" target="java.util.function.Consumer">
+                  <point x="0.0" y="-14.5" />
+                  <point x="-27.75" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.AbstractTask" target="java.util.concurrent.CountedCompleter">
+                  <point x="2.8421709430404007E-14" y="-14.5" />
+                  <point x="210.88888888888894" y="133.0" />
+                  <point x="307.3333333333333" y="133.0" />
+                  <point x="-54.666666666666686" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.BaseStream">
+                  <point x="0.0" y="-14.5" />
+                  <point x="346.875" y="459.0" />
+                  <point x="287.99999999999994" y="459.0" />
+                  <point x="10.083333333333314" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.LongPipeline" target="java.util.stream.LongStream">
+                  <point x="-31.5" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.TerminalSink" target="java.util.function.Supplier">
+                  <point x="31.5" y="-14.5" />
+                  <point x="216.25" y="785.0" />
+                  <point x="332.5" y="785.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.FindOps.FindTask" target="java.util.stream.AbstractShortCircuitTask">
+                  <point x="0.0" y="-14.5" />
+                  <point x="186.5" y="291.0" />
+                  <point x="173.0" y="291.0" />
+                  <point x="51.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.IntPipeline" target="java.util.stream.IntStream">
+                  <point x="-27.75" y="-14.5" />
+                  <point x="223.09469696969697" y="538.0" />
+                  <point x="199.375" y="538.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.ForEachOps.ForEachTask" target="java.util.concurrent.CountedCompleter">
+                  <point x="0.0" y="-14.5" />
+                  <point x="359.3888888888889" y="133.0" />
+                  <point x="362.0" y="133.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.LongStream" target="java.util.stream.BaseStream">
+                  <point x="0.0" y="-14.5" />
+                  <point x="61.0" y="459.0" />
+                  <point x="227.49999999999994" y="459.0" />
+                  <point x="-50.416666666666686" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.IntPipeline" target="java.util.stream.AbstractPipeline">
+                  <point x="27.75" y="-14.5" />
+                  <point x="278.594696969697" y="558.0" />
+                  <point x="328.375" y="558.0" />
+                  <point x="-18.5" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.IntStream" target="java.util.stream.BaseStream">
+                  <point x="0.0" y="-14.5" />
+                  <point x="199.375" y="469.0" />
+                  <point x="247.66666666666663" y="469.0" />
+                  <point x="-30.25" y="14.5" />
+                </edge>
+                <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.AbstractPipeline">
+                  <point x="-39.0" y="-14.5" />
+                  <point x="581.875" y="548.0" />
+                  <point x="402.375" y="548.0" />
+                  <point x="55.5" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6545284780578898" x="494.5" y="525.5" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PipelineHelper.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/PipelineHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForkJoinTask.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10050">
+              <caret line="718" column="49" selection-start-line="718" selection-start-column="49" selection-end-line="718" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindOps.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/FindOps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3195">
+              <caret line="255" column="43" selection-start-line="255" selection-start-column="43" selection-end-line="255" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BaseStream</find>
+      <find>super</find>
+      <find>intermediate</find>
+      <find>terminal</find>
+      <find>Streams are</find>
+      <find>intermediate operations</find>
+      <find>Streams are lazy;</find>
+      <find>Collection</find>
+      <find>sourceStage</find>
+      <find>head</find>
+      <find>linkedOrConsumed</find>
+      <find>Commences performing this task,</find>
+      <find>Returns the result of the computation</find>
+      <find>Construct a new Stream</find>
+      <find>short-circuiting</find>
+      <find>ordered</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.4" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="stream-api-learn" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="stream-api-learn" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'stream-api-learn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'stream-api-learn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'stream-api-learn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'stream-api-learn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'stream-api-learn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'stream-api-learn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'stream-api-learn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'stream-api-learn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="create-dirsbuild_3bis6yajghn9uhvk6c6d0x3db$_run_closure3@426fea70" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'stream-api-learn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6132201155000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="866553039" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2154782573" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="stream-api-learn" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../openiam-client-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/learn-stream/demo.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/demo.java" />
+        <option value="$PROJECT_DIR$/stream-api.puml" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Dish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1920" />
+    <option name="y" value="-16" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stream-api-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream-api-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stream-api-learn" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stream-api-learn" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+              <item name="stream-api-learn_main" type="cbb8eebc:String" user="stream-api-learn_main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+              <item name="stream-api-learn_main" type="cbb8eebc:String" user="stream-api-learn_main" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+              <item name="stream-api-learn_main" type="cbb8eebc:String" user="stream-api-learn_main" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+              <item name="stream-api-learn" type="cbb8eebc:String" user="stream-api-learn" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="opWrapSink&#9;PSI&#9;JAVA://java.util.stream.AbstractPipeline#opWrapSink" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/file" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="stream-api-learn_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="stream-api-learn [create-dirs]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="create-dirs" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.stream-api-learn [create-dirs]" />
+      <item itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Gradle.stream-api-learn [create-dirs]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e0af6eb-cc32-4976-8ccb-786d7e4a49c6" name="Default" comment="" />
+      <created>1533048973207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533048973207</updated>
+      <workItem from="1533048975005" duration="1141000" />
+      <workItem from="1533051250075" duration="179000" />
+      <workItem from="1533051669786" duration="210000" />
+      <workItem from="1533051892751" duration="4000" />
+      <workItem from="1533051979529" duration="1671000" />
+      <workItem from="1533096239474" duration="3692000" />
+      <workItem from="1533440616781" duration="4248000" />
+      <workItem from="1533445632039" duration="4074000" />
+      <workItem from="1533566734600" duration="4239000" />
+      <workItem from="1533654722849" duration="4632000" />
+      <workItem from="1533722366306" duration="4801000" />
+      <workItem from="1533817455179" duration="6298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35189000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="-16" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.4547391" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.68" side_tool="true" weight="0.2657512" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35034484" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.215625" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
+      <window_info active="true" content_ui="combo" x="475" y="66" width="329" height="667" id="Project" order="0" sideWeight="0.31586206" visible="true" weight="0.20820022" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32956383" />
+      <window_info id="JavaEE:App" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.68413794" side_tool="true" weight="0.41276252" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.08" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Nodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/StreamSpliterators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/LongStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/DoublePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/LongPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/IntPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/StreamShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/StreamOpFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="203" column="19" lean-forward="true" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/CountedCompleter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="417" lean-forward="true" selection-start-line="417" selection-end-line="417" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/AbstractTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/AbstractShortCircuitTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/MatchOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="277" column="31" selection-start-line="277" selection-start-column="31" selection-end-line="277" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/SpinedBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="74" column="7" lean-forward="true" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/AbstractSpinedBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="191" column="77" lean-forward="true" selection-start-line="191" selection-start-column="77" selection-end-line="191" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api.puml" />
+    <entry file="uml://JAVA/java.util.stream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.stream</OriginalElement>
+          <nodes>
+            <node x="159.37499999999997" y="489.0">java.util.stream.IntStream</node>
+            <node x="878.0" y="879.0">java.util.stream.Nodes</node>
+            <node x="548.75" y="578.0">java.util.stream.LongPipeline</node>
+            <node x="0.0" y="805.0">java.util.stream.ForEachOps</node>
+            <node x="168.0" y="805.0">java.util.stream.DistinctOps</node>
+            <node x="371.91666666666663" y="390.0">java.util.stream.PipelineHelper</node>
+            <node x="0.0" y="953.0">java.util.stream.Node</node>
+            <node x="303.0" y="879.0">java.util.stream.SliceOps</node>
+            <node x="333.0" y="805.0">java.util.stream.TerminalOp</node>
+            <node x="14.0" y="652.0">java.util.function.Supplier</node>
+            <node x="593.0" y="879.0">java.util.stream.Streams</node>
+            <node x="659.0" y="805.0">java.util.stream.SortedOps</node>
+            <node x="449.0" y="879.0">java.util.stream.FindOps</node>
+            <node x="274.0" y="79.0">java.util.concurrent.CountedCompleter</node>
+            <node x="0.0" y="731.0">java.util.stream.TerminalSink</node>
+            <node x="775.75" y="469.0">java.util.stream.SpinedBuffer</node>
+            <node x="363.435606060606" y="578.0">java.util.stream.ReferencePipeline</node>
+            <node x="289.8888888888889" y="158.0">java.util.stream.ForEachOps.ForEachTask</node>
+            <node x="378.0" y="652.0">java.util.stream.StreamSupport</node>
+            <node x="155.0" y="879.0">java.util.stream.Collector</node>
+            <node x="818.0" y="805.0">java.util.stream.MatchOps</node>
+            <node x="139.8888888888889" y="158.0">java.util.stream.AbstractTask</node>
+            <node x="564.0" y="652.0">java.util.stream.StreamOpFlag</node>
+            <node x="123.0" y="316.0">java.util.stream.MatchOps.MatchTask</node>
+            <node x="291.0" y="0.0">java.util.concurrent.ForkJoinTask</node>
+            <node x="582.25" y="489.0">java.util.stream.LongStream</node>
+            <node x="209.24621212121207" y="578.0">java.util.stream.IntPipeline</node>
+            <node x="171.0" y="652.0">java.util.stream.StreamSpliterators</node>
+            <node x="0.0" y="879.0">java.util.stream.Collectors</node>
+            <node x="0.0" y="489.0">java.util.stream.DoubleStream</node>
+            <node x="0.0" y="316.0">java.util.stream.FindOps.FindTask</node>
+            <node x="436.8888888888889" y="158.0">java.util.stream.ForEachOps.ForEachOrderedTask</node>
+            <node x="32.5" y="578.0">java.util.stream.DoublePipeline</node>
+            <node x="749.25" y="390.0">java.util.stream.AbstractSpinedBuffer</node>
+            <node x="457.75" y="489.0">java.util.stream.Stream</node>
+            <node x="736.0" y="879.0">java.util.stream.Tripwire</node>
+            <node x="238.0" y="237.0">java.util.stream.ReduceOps.ReduceTask</node>
+            <node x="496.0" y="805.0">java.util.stream.ReduceOps</node>
+            <node x="230.9166666666666" y="390.0">java.util.stream.BaseStream</node>
+            <node x="286.375" y="489.0">java.util.stream.AbstractPipeline</node>
+            <node x="14.0" y="237.0">java.util.stream.AbstractShortCircuitTask</node>
+            <node x="743.0" y="652.0">java.util.stream.StreamShape</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.stream.Stream" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="503.25" y="449.0" />
+              <point x="321.66666666666663" y="449.0" />
+              <point x="30.25" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractShortCircuitTask" target="java.util.stream.AbstractTask">
+              <point x="0.0" y="-14.5" />
+              <point x="116.0" y="212.0" />
+              <point x="172.3888888888889" y="212.0" />
+              <point x="-32.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractTask" target="java.util.concurrent.CountedCompleter">
+              <point x="2.8421709430404007E-14" y="-14.5" />
+              <point x="204.88888888888894" y="133.0" />
+              <point x="301.3333333333333" y="133.0" />
+              <point x="-54.666666666666686" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.CountedCompleter" target="java.util.concurrent.ForkJoinTask">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.SpinedBuffer" target="java.util.stream.AbstractSpinedBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.BaseStream">
+              <point x="-49.33333333333337" y="-14.5" />
+              <point x="311.04166666666663" y="469.0" />
+              <point x="281.33333333333326" y="469.0" />
+              <point x="-10.083333333333314" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.LongPipeline" target="java.util.stream.LongStream">
+              <point x="31.5" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.Stream">
+              <point x="39.0" y="-14.5" />
+              <point x="480.435606060606" y="558.0" />
+              <point x="503.25" y="558.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.DoublePipeline" target="java.util.stream.DoubleStream">
+              <point x="-34.5" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.TerminalSink" target="java.util.function.Supplier">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.IntPipeline" target="java.util.stream.IntStream">
+              <point x="-27.75" y="-14.5" />
+              <point x="236.99621212121207" y="538.0" />
+              <point x="212.87499999999997" y="538.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.FindOps.FindTask" target="java.util.stream.AbstractShortCircuitTask">
+              <point x="0.0" y="-14.5" />
+              <point x="51.5" y="291.0" />
+              <point x="65.0" y="291.0" />
+              <point x="-51.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ReduceOps.ReduceTask" target="java.util.stream.AbstractTask">
+              <point x="0.0" y="-14.5" />
+              <point x="299.0" y="212.0" />
+              <point x="237.3888888888889" y="212.0" />
+              <point x="32.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.LongPipeline" target="java.util.stream.AbstractPipeline">
+              <point x="-31.5" y="-14.5" />
+              <point x="580.25" y="548.0" />
+              <point x="415.875" y="548.0" />
+              <point x="55.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ForEachOps.ForEachTask" target="java.util.concurrent.CountedCompleter">
+              <point x="0.0" y="-14.5" />
+              <point x="353.3888888888889" y="133.0" />
+              <point x="356.0" y="133.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ForEachOps.ForEachOrderedTask" target="java.util.concurrent.CountedCompleter">
+              <point x="0.0" y="-14.5" />
+              <point x="525.3888888888889" y="133.0" />
+              <point x="410.66666666666663" y="133.0" />
+              <point x="54.66666666666663" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.LongStream" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="643.25" y="439.0" />
+              <point x="341.83333333333326" y="439.0" />
+              <point x="50.416666666666686" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.IntPipeline" target="java.util.stream.AbstractPipeline">
+              <point x="27.75" y="-14.5" />
+              <point x="292.49621212121207" y="558.0" />
+              <point x="341.875" y="558.0" />
+              <point x="-18.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.DoubleStream" target="java.util.stream.BaseStream">
+              <point x="-2.8421709430404007E-14" y="-14.5" />
+              <point x="67.0" y="459.0" />
+              <point x="240.99999999999991" y="459.0" />
+              <point x="-50.416666666666686" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.DoublePipeline" target="java.util.stream.AbstractPipeline">
+              <point x="34.5" y="-14.5" />
+              <point x="136.0" y="548.0" />
+              <point x="304.875" y="548.0" />
+              <point x="-55.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.IntStream" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="212.87499999999997" y="469.0" />
+              <point x="261.16666666666663" y="469.0" />
+              <point x="-30.25" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.PipelineHelper">
+              <point x="49.333333333333314" y="-14.5" />
+              <point x="409.70833333333326" y="469.0" />
+              <point x="439.41666666666663" y="469.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.AbstractPipeline">
+              <point x="-39.0" y="-14.5" />
+              <point x="402.435606060606" y="558.0" />
+              <point x="378.875" y="558.0" />
+              <point x="18.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.MatchOps.MatchTask" target="java.util.stream.AbstractShortCircuitTask">
+              <point x="0.0" y="-14.5" />
+              <point x="180.5" y="291.0" />
+              <point x="167.0" y="291.0" />
+              <point x="51.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="569.0" />
+          <SelectedNodes>
+            <node>java.util.stream.AbstractPipeline</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/StreamSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="68" column="40" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.stream.ReferencePipeline">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.stream.ReferencePipeline</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.stream.Stream.Builder</node>
+            <node x="" y="">java.util.stream.ReferencePipeline.Head</node>
+            <node x="" y="">java.util.stream.Stream</node>
+            <node x="" y="">java.util.stream.ReferencePipeline.StatefulOp</node>
+            <node x="" y="">java.util.stream.PipelineHelper</node>
+            <node x="" y="">java.util.stream.ReferencePipeline</node>
+            <node x="" y="">java.util.stream.AbstractPipeline</node>
+            <node x="" y="">java.util.stream.BaseStream</node>
+            <node x="" y="">java.util.stream.ReferencePipeline.StatelessOp</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="165.0" y="133.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.stream.ForEachOps">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.stream.ForEachOps</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.util.stream.ForEachOps</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-62.0" y="-82.0" />
+          <SelectedNodes>
+            <node>java.util.stream.ForEachOps</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/java/util/stream/DistinctOps.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Sink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="141" column="6" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="144" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/SliceOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="188" column="25" lean-forward="true" selection-start-line="188" selection-start-column="25" selection-end-line="188" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/FindOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="255" column="43" selection-start-line="255" selection-start-column="43" selection-end-line="255" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.stream.ForEachOps.ForEachTask">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.stream.ForEachOps.ForEachTask</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.Future</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask</node>
+            <node x="" y="">java.util.concurrent.CountedCompleter</node>
+            <node x="" y="">java.util.stream.ForEachOps.ForEachTask</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="368.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10050">
+          <caret line="718" column="49" selection-start-line="718" selection-start-column="49" selection-end-line="718" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="37" selection-start-line="37" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.stream.Stream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.stream.Stream</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.stream.Stream</node>
+            <node x="" y="">java.util.stream.BaseStream</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="94.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.function">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.function</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.function.LongSupplier</node>
+            <node x="" y="">java.util.function.IntUnaryOperator</node>
+            <node x="" y="">java.util.function.LongBinaryOperator</node>
+            <node x="" y="">java.util.function.BiFunction</node>
+            <node x="" y="">java.util.function.IntConsumer</node>
+            <node x="" y="">java.util.function.DoubleFunction</node>
+            <node x="" y="">java.util.function.IntBinaryOperator</node>
+            <node x="" y="">java.util.function.UnaryOperator</node>
+            <node x="" y="">java.util.function.ObjIntConsumer</node>
+            <node x="" y="">java.util.function.Function</node>
+            <node x="" y="">java.util.function.Supplier</node>
+            <node x="" y="">java.util.function.DoubleConsumer</node>
+            <node x="" y="">java.util.function.IntPredicate</node>
+            <node x="" y="">java.util.function.DoubleUnaryOperator</node>
+            <node x="" y="">java.util.function.BooleanSupplier</node>
+            <node x="" y="">java.util.function.ToLongBiFunction</node>
+            <node x="" y="">java.util.function.BiPredicate</node>
+            <node x="" y="">java.util.function.DoubleBinaryOperator</node>
+            <node x="" y="">java.util.function.ToIntBiFunction</node>
+            <node x="" y="">java.util.function.BiConsumer</node>
+            <node x="" y="">java.util.function.LongPredicate</node>
+            <node x="" y="">java.util.function.ToLongFunction</node>
+            <node x="" y="">java.util.function.LongToDoubleFunction</node>
+            <node x="" y="">java.util.function.IntSupplier</node>
+            <node x="" y="">java.util.function.IntFunction</node>
+            <node x="" y="">java.util.function.LongToIntFunction</node>
+            <node x="" y="">java.util.function.IntToDoubleFunction</node>
+            <node x="" y="">java.util.function.LongFunction</node>
+            <node x="" y="">java.util.function.Predicate</node>
+            <node x="" y="">java.util.function.ToIntFunction</node>
+            <node x="" y="">java.util.function.DoubleToIntFunction</node>
+            <node x="" y="">java.util.function.ObjDoubleConsumer</node>
+            <node x="" y="">java.util.function.BinaryOperator</node>
+            <node x="" y="">java.util.function.LongConsumer</node>
+            <node x="" y="">java.util.function.ToDoubleBiFunction</node>
+            <node x="" y="">java.util.function.Consumer</node>
+            <node x="" y="">java.util.function.IntToLongFunction</node>
+            <node x="" y="">java.util.function.DoubleToLongFunction</node>
+            <node x="" y="">java.util.function.ObjLongConsumer</node>
+            <node x="" y="">java.util.function.LongUnaryOperator</node>
+            <node x="" y="">java.util.function.ToDoubleFunction</node>
+            <node x="" y="">java.util.function.DoubleSupplier</node>
+            <node x="" y="">java.util.function.DoublePredicate</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7753456221198156" x="656.6456166419019" y="414.00000000000006" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/file/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="569" column="80" lean-forward="true" selection-start-line="569" selection-start-column="80" selection-end-line="569" selection-end-column="80" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ReduceOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="653" column="28" selection-start-line="653" selection-start-column="28" selection-end-line="653" selection-end-column="28" />
+          <folding>
+            <element signature="e#22308#22309#0" expanded="true" />
+            <element signature="e#22350#22351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/TerminalSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/TerminalOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/PipelineHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="497" column="9" selection-start-line="497" selection-start-column="9" selection-end-line="497" selection-end-column="9" />
+          <folding>
+            <element signature="e#45701#45702#0" expanded="true" />
+            <element signature="e#45745#45746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="139" column="26" selection-start-line="139" selection-start-column="26" selection-end-line="139" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#flatMapDiffMapFunc#0;class#Demo#0" />
+            <element signature="e#4853#4854#0" expanded="true" />
+            <element signature="e#4954#4955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="417" column="12" selection-start-line="417" selection-start-column="12" selection-end-line="417" selection-end-column="12" />
+          <folding>
+            <element signature="e#2627#2628#0" expanded="true" />
+            <element signature="e#2667#2668#0" expanded="true" />
+            <element signature="e#15146#15147#0" expanded="true" />
+            <element signature="e#15205#15206#0" expanded="true" />
+            <element signature="e#17054#17055#0" expanded="true" />
+            <element signature="e#17109#17110#0" expanded="true" />
+            <element signature="e#20681#20682#0" expanded="true" />
+            <element signature="e#20746#20747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/AbstractPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="232" column="41" selection-start-line="232" selection-start-column="41" selection-end-line="232" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/ForEachOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="312" column="5" lean-forward="true" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="5" />
+          <folding>
+            <element signature="e#4705#4706#0" expanded="true" />
+            <element signature="e#4751#4752#0" expanded="true" />
+            <element signature="e#8030#8057#0" expanded="true" />
+            <element signature="e#10649#10676#0" expanded="true" />
+            <element signature="e#17894#17924#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.stream</OriginalElement>
+          <nodes>
+            <node x="145.875" y="489.0">java.util.stream.IntStream</node>
+            <node x="0.0" y="1032.0">java.util.stream.Nodes</node>
+            <node x="29.5" y="578.0">java.util.stream.LongPipeline</node>
+            <node x="174.0" y="884.0">java.util.stream.ForEachOps</node>
+            <node x="342.0" y="884.0">java.util.stream.DistinctOps</node>
+            <node x="358.41666666666663" y="390.0">java.util.stream.PipelineHelper</node>
+            <node x="507.0" y="884.0">java.util.stream.TerminalOp</node>
+            <node x="459.0" y="958.0">java.util.stream.SliceOps</node>
+            <node x="133.0" y="1032.0">java.util.stream.Node</node>
+            <node x="283.5" y="731.0">java.util.function.Supplier</node>
+            <node x="749.0" y="958.0">java.util.stream.Streams</node>
+            <node x="605.0" y="958.0">java.util.stream.FindOps</node>
+            <node x="833.0" y="884.0">java.util.stream.SortedOps</node>
+            <node x="280.0" y="79.0">java.util.concurrent.CountedCompleter</node>
+            <node x="121.75" y="810.0">java.util.stream.TerminalSink</node>
+            <node x="134.5" y="731.0">java.util.stream.SpinedBuffer</node>
+            <node x="542.875" y="578.0">java.util.stream.ReferencePipeline</node>
+            <node x="295.8888888888889" y="158.0">java.util.stream.ForEachOps.ForEachTask</node>
+            <node x="633.5" y="652.0">java.util.stream.StreamSupport</node>
+            <node x="311.0" y="958.0">java.util.stream.Collector</node>
+            <node x="0.0" y="958.0">java.util.stream.MatchOps</node>
+            <node x="145.8888888888889" y="158.0">java.util.stream.AbstractTask</node>
+            <node x="819.5" y="652.0">java.util.stream.StreamOpFlag</node>
+            <node x="0.0" y="316.0">java.util.stream.MatchOps.MatchTask</node>
+            <node x="297.0" y="0.0">java.util.concurrent.ForkJoinTask</node>
+            <node x="0.0" y="489.0">java.util.stream.LongStream</node>
+            <node x="195.34469696969697" y="578.0">java.util.stream.IntPipeline</node>
+            <node x="426.5" y="652.0">java.util.stream.StreamSpliterators</node>
+            <node x="156.0" y="958.0">java.util.stream.Collectors</node>
+            <node x="440.875" y="489.0">java.util.stream.DoubleStream</node>
+            <node x="135.0" y="316.0">java.util.stream.FindOps.FindTask</node>
+            <node x="9.25" y="652.0">java.util.function.Consumer</node>
+            <node x="442.8888888888889" y="158.0">java.util.stream.ForEachOps.ForEachOrderedTask</node>
+            <node x="140.25" y="652.0">java.util.stream.AbstractSpinedBuffer</node>
+            <node x="354.594696969697" y="578.0">java.util.stream.DoublePipeline</node>
+            <node x="614.375" y="489.0">java.util.stream.Stream</node>
+            <node x="892.0" y="958.0">java.util.stream.Tripwire</node>
+            <node x="244.0" y="237.0">java.util.stream.ReduceOps.ReduceTask</node>
+            <node x="670.0" y="884.0">java.util.stream.ReduceOps</node>
+            <node x="217.41666666666663" y="390.0">java.util.stream.BaseStream</node>
+            <node x="272.875" y="489.0">java.util.stream.AbstractPipeline</node>
+            <node x="20.0" y="237.0">java.util.stream.AbstractShortCircuitTask</node>
+            <node x="0.0" y="884.0">java.util.stream.StreamShape</node>
+            <node x="0.0" y="731.0">java.util.stream.Sink</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.stream.Stream" target="java.util.stream.BaseStream">
+              <point x="-2.8421709430404007E-14" y="-14.5" />
+              <point x="659.875" y="439.0" />
+              <point x="328.3333333333333" y="439.0" />
+              <point x="50.416666666666686" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractShortCircuitTask" target="java.util.stream.AbstractTask">
+              <point x="0.0" y="-14.5" />
+              <point x="122.0" y="212.0" />
+              <point x="178.3888888888889" y="212.0" />
+              <point x="-32.5" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.CountedCompleter" target="java.util.concurrent.ForkJoinTask">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.SpinedBuffer" target="java.util.stream.AbstractSpinedBuffer">
+              <point x="32.25" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.Stream">
+              <point x="39.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.DoublePipeline" target="java.util.stream.DoubleStream">
+              <point x="34.5" y="-14.5" />
+              <point x="458.094696969697" y="558.0" />
+              <point x="507.875" y="558.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ReduceOps.ReduceTask" target="java.util.stream.AbstractTask">
+              <point x="0.0" y="-14.5" />
+              <point x="305.0" y="212.0" />
+              <point x="243.3888888888889" y="212.0" />
+              <point x="32.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.LongPipeline" target="java.util.stream.AbstractPipeline">
+              <point x="31.5" y="-14.5" />
+              <point x="124.0" y="548.0" />
+              <point x="291.375" y="548.0" />
+              <point x="-55.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ForEachOps.ForEachOrderedTask" target="java.util.concurrent.CountedCompleter">
+              <point x="0.0" y="-14.5" />
+              <point x="531.3888888888889" y="133.0" />
+              <point x="416.66666666666663" y="133.0" />
+              <point x="54.66666666666663" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.DoubleStream" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="507.875" y="449.0" />
+              <point x="308.16666666666663" y="449.0" />
+              <point x="30.25" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.DoublePipeline" target="java.util.stream.AbstractPipeline">
+              <point x="-34.5" y="-14.5" />
+              <point x="389.094696969697" y="558.0" />
+              <point x="365.375" y="558.0" />
+              <point x="18.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.SpinedBuffer" target="java.util.function.Consumer">
+              <point x="-32.25" y="-14.5" />
+              <point x="166.75" y="706.0" />
+              <point x="92.5" y="706.0" />
+              <point x="27.75" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.PipelineHelper">
+              <point x="49.333333333333314" y="-14.5" />
+              <point x="396.2083333333333" y="469.0" />
+              <point x="425.91666666666663" y="469.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.MatchOps.MatchTask" target="java.util.stream.AbstractShortCircuitTask">
+              <point x="0.0" y="-14.5" />
+              <point x="57.5" y="291.0" />
+              <point x="71.0" y="291.0" />
+              <point x="-51.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.TerminalSink" target="java.util.stream.Sink">
+              <point x="-31.5" y="-14.5" />
+              <point x="153.25" y="785.0" />
+              <point x="37.0" y="785.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.Sink" target="java.util.function.Consumer">
+              <point x="0.0" y="-14.5" />
+              <point x="-27.75" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractTask" target="java.util.concurrent.CountedCompleter">
+              <point x="2.8421709430404007E-14" y="-14.5" />
+              <point x="210.88888888888894" y="133.0" />
+              <point x="307.3333333333333" y="133.0" />
+              <point x="-54.666666666666686" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="346.875" y="459.0" />
+              <point x="287.99999999999994" y="459.0" />
+              <point x="10.083333333333314" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.LongPipeline" target="java.util.stream.LongStream">
+              <point x="-31.5" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.TerminalSink" target="java.util.function.Supplier">
+              <point x="31.5" y="-14.5" />
+              <point x="216.25" y="785.0" />
+              <point x="332.5" y="785.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.FindOps.FindTask" target="java.util.stream.AbstractShortCircuitTask">
+              <point x="0.0" y="-14.5" />
+              <point x="186.5" y="291.0" />
+              <point x="173.0" y="291.0" />
+              <point x="51.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.IntPipeline" target="java.util.stream.IntStream">
+              <point x="-27.75" y="-14.5" />
+              <point x="223.09469696969697" y="538.0" />
+              <point x="199.375" y="538.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ForEachOps.ForEachTask" target="java.util.concurrent.CountedCompleter">
+              <point x="0.0" y="-14.5" />
+              <point x="359.3888888888889" y="133.0" />
+              <point x="362.0" y="133.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.LongStream" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="61.0" y="459.0" />
+              <point x="227.49999999999994" y="459.0" />
+              <point x="-50.416666666666686" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.IntPipeline" target="java.util.stream.AbstractPipeline">
+              <point x="27.75" y="-14.5" />
+              <point x="278.594696969697" y="558.0" />
+              <point x="328.375" y="558.0" />
+              <point x="-18.5" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.IntStream" target="java.util.stream.BaseStream">
+              <point x="0.0" y="-14.5" />
+              <point x="199.375" y="469.0" />
+              <point x="247.66666666666663" y="469.0" />
+              <point x="-30.25" y="14.5" />
+            </edge>
+            <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.AbstractPipeline">
+              <point x="-39.0" y="-14.5" />
+              <point x="581.875" y="548.0" />
+              <point x="402.375" y="548.0" />
+              <point x="55.5" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6545284780578898" x="494.5" y="525.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>stream-api-learn_main:ear exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaEE Application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>stream-api-learn_main|stream-api-learn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
